@@ -1,84 +1,15 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=PRINCE%20THE%20GOOD&fontSize=38&fontColor=00FF66&fontAlignY=38&animation=fadeIn&desc=OSINT%20%7C%20CYBERSECURITY%20%7C%20DIGITAL%20INTELLIGENCE&descAlignY=60&descSize=12" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:180000,100:FF0000&height=220&section=header&text=Prince%20the%20Good&fontSize=42&fontColor=FF2020&fontAlignY=38&animation=fadeIn&desc=CYBERSECURITY%20%2F%20PYTHON%20%2F%20TERMUX&descAlignY=60&descSize=14"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=%3E+Initializing+digital+intelligence...;%3E+Open+Source+Intelligence+%7C+OSINT;%3E+Python+%7C+Linux+%7C+Cybersecurity;%3E+Analyze.+Investigate.+Verify." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=900&color=FF2020&center=true&vCenter=true&width=650&lines=%3E+ACCESSING+THE+DIGITAL+WORLD...;%3E+MOBILE+CYBERSECURITY+ENTHUSIAST;%3E+PYTHON+%7C+TERMUX+%7C+LINUX;%3E+KNOWLEDGE+IS+THE+ULTIMATE+WEAPON." />
 
-</div>
+<br/>
 
----
-
-```text
-┌──────────────────────────────────────────────┐
-│  USER       : PRINCE THE GOOD                │
-│  SPECIALTY  : OSINT / DIGITAL INTELLIGENCE   │
-│  STATUS     : LEARNING & RESEARCHING         │
-│  FOCUS      : PUBLIC DATA ANALYSIS           │
-└──────────────────────────────────────────────┘
-```
-
-## `> WHOAMI`
-
-```bash
-$ whoami
-Prince the Good
-
-$ cat mission.txt
-Exploring OSINT, cybersecurity and digital
-investigation through ethical research.
-
-$ cat objectives.txt
-- Open-source intelligence
-- Python automation
-- Linux and command-line tools
-- Data analysis and verification
-- Defensive cybersecurity
-```
-
-## `> AREAS OF INTEREST`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/OSINT-00FF66?style=for-the-badge&logo=search&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=00FF66" />
-<img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=00FF66" />
-<img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=hackthebox&logoColor=00FF66" />
-<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=00FF66" />
-
-</div>
-
-## `> TOOLKIT`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode,docker&theme=dark&perline=7" />
-
-</div>
-
-## `> GITHUB STATISTICS`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF66&icon_color=00FF66&text_color=C9D1D9" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9" />
-
-</div>
-
-## `> ACTIVITY LOG`
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D1117&color=00FF66&line=00FF66&point=FFFFFF&area=true&hide_border=true" />
-
-</div>
-
-## `> CONNECT`
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-PRINCE_THE_GOOD-111111?style=for-the-badge&logo=github&logoColor=00FF66)](https://github.com/SEU_USUARIO)
+<img src="https://img.shields.io/badge/IDENTITY-PRINCE_THE_GOOD-0A0A0A?style=for-the-badge&labelColor=000000&color=8B0000"/>
+<img src="https://img.shields.io/badge/PLATFORM-ANDROID-0A0A0A?style=for-the-badge&logo=android&logoColor=FF2020"/>
+<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-0A0A0A?style=for-the-badge&logo=kalilinux&logoColor=FF2020"/>
 
 </div>
 
@@ -86,10 +17,104 @@ $ cat objectives.txt
 
 <div align="center">
 
+## `⛧ THE FACE BEHIND THE TERMINAL ⛧`
+
+<img width="320" src="https://placehold.co/320x320/080808/ff2020?text=%E2%9B%A7+MASKED+%E2%9B%A7&font=monospace"/>
+
+### 𝑷𝒓𝒊𝒏𝒄𝒆 𝒕𝒉𝒆 𝑮𝒐𝒐𝒅
+
+**`MOBILE CYBERSECURITY • PYTHON • TERMUX`**
+
+</div>
+
 ```text
-[ ETHICAL RESEARCH // PUBLIC INFORMATION ]
+┌─────────────────────────────────────────┐
+│  USER      : ᴾʳⁱⁿᶜᵉ ᵗʰᵉ ᴳᵒᵒᵈ            │
+│  SYSTEM    : ANDROID / TERMUX            │
+│  LANGUAGE  : PYTHON                      │
+│  INTEREST  : CYBERSECURITY               │
+│  MODE      : LEARN / CODE / ANALYZE      │
+└─────────────────────────────────────────┘
 ```
 
-<sub>Learn continuously. Investigate responsibly. Verify everything.</sub>
+## `> WHO AM I?`
+
+```python
+class PrinceTheGood:
+    def __init__(self):
+        self.name = "𝑷𝒓𝒊𝒏𝒄𝒆 𝒕𝒉𝒆 𝑮𝒐𝒐𝒅"
+        self.platform = "Android + Termux"
+        self.languages = ["Python", "Bash"]
+        self.interests = [
+            "Cybersecurity",
+            "OSINT",
+            "Termux",
+            "Automation",
+            "Mobile Security",
+            "Ethical Hacking"
+        ]
+
+    def mission(self):
+        return "Learn. Analyze. Secure. Repeat."
+
+prince = PrinceTheGood()
+print(prince.mission())
+```
+
+## `> MY ARSENAL`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=FF3030"/>
+<img src="https://img.shields.io/badge/Termux-111111?style=for-the-badge&logo=linux&logoColor=FF3030"/>
+<img src="https://img.shields.io/badge/OSINT-111111?style=for-the-badge&logo=search&logoColor=FF3030"/>
+<img src="https://img.shields.io/badge/Automation-111111?style=for-the-badge&logo=gnubash&logoColor=FF3030"/>
+
+</div>
+
+## `> SKILLS IN PROGRESS`
+
+- `[+]` Python scripting and automation
+- `[+]` Termux tools on Android
+- `[+]` Linux command line
+- `[+]` OSINT and public-source research
+- `[+]` Network security fundamentals
+- `[+]` Defensive security and authorized testing
+
+## `> GITHUB PERFORMANCE`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=080808&title_color=FF2020&icon_color=FF2020&text_color=E0E0E0"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=080808&title_color=FF2020&text_color=E0E0E0"/>
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=080808&color=FF2020&line=FF2020&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `⛧ THE HACKER'S CODE ⛧`
+
+> "The real power isn't in breaking systems. It's in understanding them."
+
+```text
+[ THINK DIFFERENTLY ]
+[ CODE INTELLIGENTLY ]
+[ PROTECT THE DIGITAL WORLD ]
+```
+
+**`PRINCE THE GOOD // END OF TRANSMISSION`**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:180000,100:050505&height=100&section=footer"/>
 
 </div>
