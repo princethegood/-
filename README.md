@@ -12,7 +12,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=800&color=FF2020&center=true&vCenter=true&width=650&lines=INICIALIZANDO+TERMINAL...;CARREGANDO+AMBIENTE+DE+SEGURAN%C3%87A;PYTHON+%7C+LINUX+%7C+TERMUX;CONHECIMENTO+%C3%89+PODER." alt="Texto animado de terminal"/>
 
-# <span style="color:#ff2020">𖤐 OPERADOR DO SUBMUNDO DIGITAL</span>
+# <span style="color:#ff2020"> O DEUS DO SUBMUNDO DIGITAL</span>
 
 **`CIBERSEGURANÇA • PYTHON • TERMUX • LINUX`**
 
@@ -30,9 +30,6 @@
 ## `01` — QUEM ESTÁ POR TRÁS DO TERMINAL
 
 ```bash
-┌──[operador@cyberlab]
-└─$ cat perfil.txt
-
 > Estudante de cibersegurança
 > Desenvolvedor de scripts Python
 > Usuário de Linux e Termux no Android
@@ -66,22 +63,13 @@ Uso o terminal para aprender, desenvolver ferramentas, automatizar tarefas e exp
 | ----------- | -------------------------------------------- |
 | Programação | Python e scripts de automação                |
 | Terminal    | Termux, Bash e comandos Linux                |
-| Segurança   | Fundamentos de cibersegurança e defesa       |
+| Segurança   | Fundamentos de cibersegurança e defesa       |Cyber Atacks 
 | Redes       | Protocolos, diagnóstico e análise de tráfego |
 | Ferramentas | Desenvolvimento e análise de ferramentas     |
 | GitHub      | Versionamento e documentação de projetos     |
 
-## `03` — PROJETOS EM DESENVOLVIMENTO
 
-> Projetos reais serão adicionados conforme forem desenvolvidos.
-
-* **PYTHON LAB** — scripts, utilitários e automações.
-* **TERMUX TOOLS** — ferramentas para produtividade no Android.
-* **CYBER LAB** — exercícios de segurança em ambientes controlados.
-* **NETWORK ANALYSIS** — estudos de protocolos e diagnóstico de redes.
-* **DIGITAL DEFENSE** — ferramentas educativas para identificar e prevenir riscos digitais.
-
-## `04` — PAINEL DE ATIVIDADE
+## `03` — PAINEL DE ATIVIDADE
 
 <div align="center">
 
@@ -93,7 +81,7 @@ Uso o terminal para aprender, desenvolver ferramentas, automatizar tarefas e exp
 
 </div>
 
-## `05` — CÓDIGO DE CONDUTA
+## `04` — CÓDIGO DE CONDUTA
 
 ```text
 [01] Conhecimento acima da arrogância.
